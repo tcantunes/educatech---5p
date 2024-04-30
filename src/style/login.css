@@ -19,10 +19,6 @@ header {
   padding: 10px;
 }
 
-main {
-  height: 100vh;
-}
-
 .nav-item {
   background-color: #d7bf5e;
   color: #83555e;
